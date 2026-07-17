@@ -1,0 +1,7 @@
+{
+  "query": {
+    "categorymembers": [
+      {"pageid": 3, "ns": 0, "title": "მზე"}
+    ]
+  }
+}
